@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.awsdevopschandu.tk
+USER_HOST: user.awsdevopschandu.tk
+SHIPPING_HOST: shipping.awsdevopschandu.tk
+CART_HOST: cart.awsdevopschandu.tk
+PAYMENT_HOST: payment.awsdevopschandu.tk
